@@ -2,6 +2,8 @@ package demo.fordemo
 
 object StackDemo {
   def main(args: Array[String]): Unit = {
+    println(10%3)
+    println(-10%3)
     val stack = new Stack[Int]
     stack.push(1)
     stack.push(2)
