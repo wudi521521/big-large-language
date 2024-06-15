@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sk-common/Sk-common.iml" filepath="$PROJECT_DIR$/Sk-common/Sk-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sk-master/Sk-master.iml" filepath="$PROJECT_DIR$/Sk-master/Sk-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sk-work/Sk-work.iml" filepath="$PROJECT_DIR$/Sk-work/Sk-work.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/big-large-language.iml" filepath="$PROJECT_DIR$/.idea/big-large-language.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_project/scala_project.iml" filepath="$PROJECT_DIR$/scala_project/scala_project.iml" />
     </modules>

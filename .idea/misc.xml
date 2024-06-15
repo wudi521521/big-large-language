@@ -4,6 +4,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/scala_project/pom.xml" />
+        <option value="$PROJECT_DIR$/Sk-common/pom.xml" />
+        <option value="$PROJECT_DIR$/Sk-master/pom.xml" />
+        <option value="$PROJECT_DIR$/Sk-work/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,10 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="scala_project" />
+        <module name="Sk-work" />
+        <module name="Sk-master" />
+        <module name="Sk-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="scala_project" target="1.5" />
+      <module name="Sk-common" target="8" />
+      <module name="Sk-master" target="8" />
+      <module name="Sk-work" target="8" />
+      <module name="Spark-common" target="8" />
+      <module name="Spark-common-01" target="8" />
+      <module name="Spark-master" target="8" />
+      <module name="Spark-worker" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
